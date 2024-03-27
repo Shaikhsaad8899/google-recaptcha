@@ -1,5 +1,3 @@
-# reCAPTCHA v3 with Next.js
-
 This repository shows how to implement reCAPTCHA v3 with Next.js without using a library. More details on the implementation can be found in the article [reCAPTCHA v3 with Next.js](http://www.kpadenou.net/blogs/post/recaptcha_v3_with_nextjs). 
 
 ## Getting Started
